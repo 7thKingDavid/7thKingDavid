@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @7thKingDavid
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning front-end development
+- 💞️ I’m looking to collaborate with likeminds on real life projects
+- 📫 You can reach me via my mobile number {+2348155246010} for WhatsApp and calls
+- 😄 I'm the Boy the Lord has helped.
+- ⚡ Fun fact: I like trying out new things and i don't mind failing because i always learn from it.

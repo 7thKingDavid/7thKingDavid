@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eze David A.</h1>
 <h3 align="center">A Dynamic frontend developer from West-Africa</h3>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://rifadul-islam.vercel.app/_next/image?url=%2Fcoding.gif&w=1080&q=75" alt="P.David" height="200" width="200"/></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://rifadul-islam.vercel.app/_next/image?url=%2Fcoding.gif&w=1080&q=75" alt="P.David" height="100" width="100"/></a> </p>
 
 - 🔭 I’m currently working on [FunGab Global Ent.](NDA protected)
 
